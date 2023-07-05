@@ -1,0 +1,174 @@
+[INFO ] 2023-07-02 16:06:34.847 [main] Logger - name set
+[INFO ] 2023-07-02 16:06:34.876 [main] Logger - User name is provided
+[INFO ] 2023-07-02 16:06:34.931 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:06:34.932 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 16:06:39.048 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:06:42.153 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 16:06:56.771 [main] Logger - validation started....
+[INFO ] 2023-07-02 16:06:56.787 [main] Logger - test case passed....
+[INFO ] 2023-07-02 16:12:47.616 [main] Logger - URL is opened
+[INFO ] 2023-07-02 16:12:47.818 [main] Logger - name set
+[INFO ] 2023-07-02 16:12:47.884 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:12:53.468 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:13:05.788 [main] Logger - name set
+[INFO ] 2023-07-02 16:13:05.789 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:13:05.862 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:13:05.862 [main] Logger - password provided
+[INFO ] 2023-07-02 16:13:09.550 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:13:14.362 [main] Logger - name set
+[INFO ] 2023-07-02 16:13:14.363 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:13:14.490 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:13:14.490 [main] Logger - password provided
+[INFO ] 2023-07-02 16:13:18.171 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:13:23.940 [main] Logger - name set
+[INFO ] 2023-07-02 16:13:23.940 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:13:24.073 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:13:24.074 [main] Logger - password provided
+[INFO ] 2023-07-02 16:13:27.752 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:13:33.655 [main] Logger - name set
+[INFO ] 2023-07-02 16:13:33.655 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:13:33.753 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:13:33.754 [main] Logger - password provided
+[INFO ] 2023-07-02 16:13:38.213 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:13:41.253 [main] Logger - Login passed
+[INFO ] 2023-07-02 16:13:46.579 [main] Logger - name set
+[INFO ] 2023-07-02 16:13:46.580 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:13:46.632 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:13:46.632 [main] Logger - password provided
+[INFO ] 2023-07-02 16:13:50.285 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:14:07.341 [main] Logger - name set
+[INFO ] 2023-07-02 16:14:07.342 [main] Logger - User name is provided
+[INFO ] 2023-07-02 16:14:07.421 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:14:07.421 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 16:14:11.926 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:14:15.000 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 16:49:20.766 [main] Logger - URL is opened
+[INFO ] 2023-07-02 16:49:21.019 [main] Logger - name set
+[INFO ] 2023-07-02 16:49:21.113 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:49:25.598 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:49:37.538 [main] Logger - name set
+[INFO ] 2023-07-02 16:49:37.539 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:49:37.610 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:49:37.610 [main] Logger - password provided
+[INFO ] 2023-07-02 16:49:41.448 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:49:46.458 [main] Logger - name set
+[INFO ] 2023-07-02 16:49:46.458 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:49:46.609 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:49:46.609 [main] Logger - password provided
+[INFO ] 2023-07-02 16:49:50.303 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:49:56.301 [main] Logger - name set
+[INFO ] 2023-07-02 16:49:56.302 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:49:56.367 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:49:56.367 [main] Logger - password provided
+[INFO ] 2023-07-02 16:50:00.182 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:50:05.086 [main] Logger - name set
+[INFO ] 2023-07-02 16:50:05.086 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:50:05.165 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:50:05.166 [main] Logger - password provided
+[INFO ] 2023-07-02 16:50:10.536 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:50:13.584 [main] Logger - Login passed
+[INFO ] 2023-07-02 16:50:18.890 [main] Logger - name set
+[INFO ] 2023-07-02 16:50:18.890 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:50:19.003 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:50:19.003 [main] Logger - password provided
+[INFO ] 2023-07-02 16:50:22.689 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:50:39.145 [main] Logger - name set
+[INFO ] 2023-07-02 16:50:39.146 [main] Logger - User name is provided
+[INFO ] 2023-07-02 16:50:39.221 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:50:39.221 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 16:50:44.769 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:50:47.866 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 16:52:27.926 [main] Logger - URL is opened
+[INFO ] 2023-07-02 16:52:28.113 [main] Logger - name set
+[INFO ] 2023-07-02 16:52:28.192 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:52:37.651 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:52:48.724 [main] Logger - name set
+[INFO ] 2023-07-02 16:52:48.725 [main] Logger - User name is provided
+[INFO ] 2023-07-02 16:52:48.795 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:52:48.796 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 16:52:54.409 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:52:57.485 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 16:53:19.981 [main] Logger - name set
+[INFO ] 2023-07-02 16:53:19.981 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:53:20.089 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:53:20.089 [main] Logger - password provided
+[INFO ] 2023-07-02 16:53:23.913 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:53:29.044 [main] Logger - name set
+[INFO ] 2023-07-02 16:53:29.045 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:53:29.175 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:53:29.176 [main] Logger - password provided
+[INFO ] 2023-07-02 16:53:33.017 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:53:38.169 [main] Logger - name set
+[INFO ] 2023-07-02 16:53:38.169 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:53:38.436 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:53:38.445 [main] Logger - password provided
+[INFO ] 2023-07-02 16:53:42.343 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 16:53:48.652 [main] Logger - name set
+[INFO ] 2023-07-02 16:53:48.652 [main] Logger - User name provided
+[INFO ] 2023-07-02 16:53:48.723 [main] Logger - Entered password
+[INFO ] 2023-07-02 16:53:48.724 [main] Logger - password provided
+[INFO ] 2023-07-02 16:53:52.496 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 22:41:33.861 [main] Logger - URL is opened
+[INFO ] 2023-07-02 22:41:34.132 [main] Logger - name set
+[INFO ] 2023-07-02 22:41:34.234 [main] Logger - Entered password
+[INFO ] 2023-07-02 22:41:39.804 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 22:41:51.913 [main] Logger - name set
+[INFO ] 2023-07-02 22:41:51.913 [main] Logger - User name is provided
+[INFO ] 2023-07-02 22:41:52.000 [main] Logger - Entered password
+[INFO ] 2023-07-02 22:41:52.001 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 22:41:56.495 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 22:41:59.572 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 22:42:14.394 [main] Logger - validation started....
+[INFO ] 2023-07-02 22:42:14.414 [main] Logger - test case passed....
+[INFO ] 2023-07-02 22:48:02.845 [main] Logger - URL is opened
+[INFO ] 2023-07-02 22:57:54.116 [main] Logger - URL is opened
+[INFO ] 2023-07-02 22:57:54.326 [main] Logger - name set
+[INFO ] 2023-07-02 22:57:54.400 [main] Logger - Entered password
+[INFO ] 2023-07-02 22:57:58.927 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 22:58:12.884 [main] Logger - name set
+[INFO ] 2023-07-02 22:58:12.885 [main] Logger - User name is provided
+[INFO ] 2023-07-02 22:58:12.963 [main] Logger - Entered password
+[INFO ] 2023-07-02 22:58:12.964 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 22:58:18.534 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 22:58:21.621 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 22:58:35.265 [main] Logger - validation started....
+[INFO ] 2023-07-02 22:58:35.277 [main] Logger - test case passed....
+[INFO ] 2023-07-02 23:00:43.458 [main] Logger - URL is opened
+[INFO ] 2023-07-02 23:00:43.686 [main] Logger - name set
+[INFO ] 2023-07-02 23:00:43.771 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:00:48.286 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:00:48.298 [main] Logger - Login test passed
+[INFO ] 2023-07-02 23:01:00.443 [main] Logger - name set
+[INFO ] 2023-07-02 23:01:00.443 [main] Logger - User name is provided
+[INFO ] 2023-07-02 23:01:00.521 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:01:00.522 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 23:01:06.132 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:01:09.225 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 23:01:22.873 [main] Logger - validation started....
+[INFO ] 2023-07-02 23:01:22.894 [main] Logger - test case passed....
+[INFO ] 2023-07-02 23:30:29.666 [main] Logger - URL is opened
+[INFO ] 2023-07-02 23:30:29.827 [main] Logger - name set
+[INFO ] 2023-07-02 23:30:29.893 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:30:36.150 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:30:36.165 [main] Logger - Login test passed
+[INFO ] 2023-07-02 23:30:47.551 [main] Logger - name set
+[INFO ] 2023-07-02 23:30:47.551 [main] Logger - User name is provided
+[INFO ] 2023-07-02 23:30:47.605 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:30:47.605 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 23:30:53.127 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:30:56.215 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 23:31:12.762 [main] Logger - validation started....
+[INFO ] 2023-07-02 23:31:12.787 [main] Logger - test case passed....
+[INFO ] 2023-07-02 23:31:44.226 [main] Logger - URL is opened
+[INFO ] 2023-07-02 23:31:44.466 [main] Logger - name set
+[INFO ] 2023-07-02 23:31:44.558 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:31:50.209 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:31:50.221 [main] Logger - Login test passed
+[INFO ] 2023-07-02 23:32:01.869 [main] Logger - name set
+[INFO ] 2023-07-02 23:32:01.870 [main] Logger - User name is provided
+[INFO ] 2023-07-02 23:32:01.955 [main] Logger - Entered password
+[INFO ] 2023-07-02 23:32:01.956 [main] Logger - Passsword is provided
+[INFO ] 2023-07-02 23:32:07.578 [main] Logger - Login button clicked
+[INFO ] 2023-07-02 23:32:10.668 [main] Logger - providing customer details....
+[INFO ] 2023-07-02 23:32:24.526 [main] Logger - validation started....
+[INFO ] 2023-07-02 23:32:24.547 [main] Logger - test case passed....

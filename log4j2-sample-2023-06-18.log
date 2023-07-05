@@ -1,0 +1,19 @@
+
+
+[INFO ] 2023-06-18 20:54:51.892 [main] Logger - URL is opened
+[INFO ] 2023-06-18 20:54:52.048 [main] Logger - name set
+[INFO ] 2023-06-18 20:54:52.111 [main] Logger - Entered password
+[INFO ] 2023-06-18 20:54:56.295 [main] Logger - Login button clicked
+[INFO ] 2023-06-18 20:54:56.304 [main] Logger - Login test passed
+[INFO ] 2023-06-18 20:55:16.522 [main] Logger - URL is opened
+[INFO ] 2023-06-18 20:55:16.759 [main] Logger - name set
+[INFO ] 2023-06-18 20:55:16.850 [main] Logger - Entered password
+[INFO ] 2023-06-18 20:55:20.719 [main] Logger - Login button clicked
+[ERROR] 2023-06-18 20:55:20.745 [main] Logger - An error occurred during login test: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=114.0.5735.133): User or Password is not valid
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3454ecfb70b21a301c4276c864b65e21, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:60393}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:60393/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3454ecfb70b21a301c4276c864b65e21

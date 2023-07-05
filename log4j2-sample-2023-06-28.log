@@ -1,0 +1,32 @@
+[ERROR] 2023-06-28 22:29:57.487 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd7eed6a5b208f33ac2c3f73ba8dd2d5, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:54093}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:54093/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd7eed6a5b208f33ac2c3f73ba8dd2d5
+[ERROR] 2023-06-28 22:33:06.874 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93952fa5f3171a526fe776ecce9802c1, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:54891}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:54891/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 93952fa5f3171a526fe776ecce9802c1
+[ERROR] 2023-06-28 22:34:56.706 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [200b730fd5fc746c5b6a08a3b0f6cbb2, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:55086}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:55086/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 200b730fd5fc746c5b6a08a3b0f6cbb2
+[ERROR] 2023-06-28 22:38:04.389 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3d6ceac59517f6eed0b1a01684689190, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:56191}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56191/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3d6ceac59517f6eed0b1a01684689190

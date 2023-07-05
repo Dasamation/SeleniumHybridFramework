@@ -1,0 +1,17 @@
+[INFO ] 2023-06-19 13:27:15.836 [main] Logger - URL is opened
+[INFO ] 2023-06-19 13:27:16.182 [main] Logger - name set
+[INFO ] 2023-06-19 13:27:16.260 [main] Logger - Entered password
+[INFO ] 2023-06-19 13:27:20.114 [main] Logger - Login button clicked
+[ERROR] 2023-06-19 13:27:20.180 [main] Logger - An error occurred during login test: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=114.0.5735.133): User or Password is not valid
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8264bcf1c93f4756a157ab177c302c0e, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.133, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:51981}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:51981/devtoo..., se:cdpVersion: 114.0.5735.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8264bcf1c93f4756a157ab177c302c0e
+[INFO ] 2023-06-19 13:28:11.525 [main] Logger - URL is opened
+[INFO ] 2023-06-19 13:28:11.763 [main] Logger - name set
+[INFO ] 2023-06-19 13:28:11.837 [main] Logger - Entered password
+[INFO ] 2023-06-19 13:28:17.393 [main] Logger - Login button clicked
+[INFO ] 2023-06-19 13:28:17.405 [main] Logger - Login test passed

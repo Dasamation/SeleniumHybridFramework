@@ -1,0 +1,76 @@
+[INFO ] 2023-07-01 23:33:28.694 [main] Logger - name set
+[INFO ] 2023-07-01 23:33:28.705 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:33:28.794 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:33:28.795 [main] Logger - password provided
+[INFO ] 2023-07-01 23:33:32.520 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:33:37.528 [main] Logger - name set
+[INFO ] 2023-07-01 23:33:37.528 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:33:37.637 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:33:37.637 [main] Logger - password provided
+[INFO ] 2023-07-01 23:33:41.324 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:33:46.706 [main] Logger - name set
+[INFO ] 2023-07-01 23:33:46.706 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:33:46.805 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:33:46.805 [main] Logger - password provided
+[INFO ] 2023-07-01 23:33:50.477 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:33:55.858 [main] Logger - name set
+[INFO ] 2023-07-01 23:33:55.858 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:33:55.939 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:33:55.939 [main] Logger - password provided
+[INFO ] 2023-07-01 23:33:59.628 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:34:04.490 [main] Logger - name set
+[INFO ] 2023-07-01 23:34:04.491 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:34:04.596 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:34:04.596 [main] Logger - password provided
+[INFO ] 2023-07-01 23:34:08.495 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:39:18.661 [main] Logger - name set
+[INFO ] 2023-07-01 23:39:18.665 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:39:18.730 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:39:18.730 [main] Logger - password provided
+[INFO ] 2023-07-01 23:39:22.590 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:39:28.556 [main] Logger - name set
+[INFO ] 2023-07-01 23:39:28.557 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:39:28.633 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:39:28.634 [main] Logger - password provided
+[INFO ] 2023-07-01 23:39:32.312 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:39:37.173 [main] Logger - name set
+[INFO ] 2023-07-01 23:39:37.173 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:39:37.269 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:39:37.269 [main] Logger - password provided
+[INFO ] 2023-07-01 23:39:40.955 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:39:46.355 [main] Logger - name set
+[INFO ] 2023-07-01 23:39:46.356 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:39:46.531 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:39:46.531 [main] Logger - password provided
+[INFO ] 2023-07-01 23:39:50.210 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:39:55.056 [main] Logger - name set
+[INFO ] 2023-07-01 23:39:55.056 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:39:55.134 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:39:55.134 [main] Logger - password provided
+[INFO ] 2023-07-01 23:39:58.824 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:42:53.493 [main] Logger - name set
+[INFO ] 2023-07-01 23:42:53.496 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:42:53.561 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:42:53.561 [main] Logger - password provided
+[INFO ] 2023-07-01 23:42:57.229 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:43:02.178 [main] Logger - name set
+[INFO ] 2023-07-01 23:43:02.179 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:43:02.318 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:43:02.318 [main] Logger - password provided
+[INFO ] 2023-07-01 23:43:05.985 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:43:11.701 [main] Logger - name set
+[INFO ] 2023-07-01 23:43:11.705 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:43:11.897 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:43:11.897 [main] Logger - password provided
+[INFO ] 2023-07-01 23:43:15.600 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:43:21.624 [main] Logger - name set
+[INFO ] 2023-07-01 23:43:21.625 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:43:21.702 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:43:21.702 [main] Logger - password provided
+[INFO ] 2023-07-01 23:43:26.940 [main] Logger - Login button clicked
+[INFO ] 2023-07-01 23:43:29.981 [main] Logger - Login passed
+[INFO ] 2023-07-01 23:43:35.894 [main] Logger - name set
+[INFO ] 2023-07-01 23:43:35.895 [main] Logger - User name provided
+[INFO ] 2023-07-01 23:43:35.991 [main] Logger - Entered password
+[INFO ] 2023-07-01 23:43:35.992 [main] Logger - password provided
+[INFO ] 2023-07-01 23:43:39.678 [main] Logger - Login button clicked

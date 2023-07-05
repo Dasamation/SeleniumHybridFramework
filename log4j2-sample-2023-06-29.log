@@ -1,0 +1,75 @@
+[ERROR] 2023-06-29 10:15:57.162 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [863c3fb576cc2f4addf87aed35af5ce4, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:59929}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59929/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 863c3fb576cc2f4addf87aed35af5ce4
+[ERROR] 2023-06-29 10:17:10.693 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e47c8f6c638c556d92669c5b055715b, get {url="https://demo.guru99.com/v4/";}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:59955}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59955/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e47c8f6c638c556d92669c5b055715b
+[ERROR] 2023-06-29 10:17:53.696 [main] Logger - An error occurred during login test: invalid argument
+  (Session info: chrome=114.0.5735.198)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.6', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86169b2f81059a754439e53c7646a372, get {url="https://demo.guru99.com/v4/"}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.198, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/x0/_803v5xd5ql...}, goog:chromeOptions: {debuggerAddress: localhost:59992}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59992/devtoo..., se:cdpVersion: 114.0.5735.198, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 86169b2f81059a754439e53c7646a372
+[INFO ] 2023-06-29 10:18:36.230 [main] Logger - URL is opened
+[INFO ] 2023-06-29 10:18:36.585 [main] Logger - name set
+[INFO ] 2023-06-29 10:18:36.683 [main] Logger - Entered password
+[INFO ] 2023-06-29 10:18:42.378 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 10:18:42.402 [main] Logger - Login test passed
+[INFO ] 2023-06-29 14:32:29.316 [main] Logger - URL is opened
+[INFO ] 2023-06-29 14:32:29.571 [main] Logger - name set
+[INFO ] 2023-06-29 14:32:29.673 [main] Logger - Entered password
+[INFO ] 2023-06-29 14:32:35.315 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 14:32:35.328 [main] Logger - Login test passed
+[INFO ] 2023-06-29 14:33:56.632 [main] Logger - URL is opened
+[INFO ] 2023-06-29 14:33:56.726 [main] Logger - name set
+[INFO ] 2023-06-29 14:33:56.758 [main] Logger - Entered password
+[INFO ] 2023-06-29 14:34:00.868 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 14:34:00.875 [main] Logger - Login test passed
+[INFO ] 2023-06-29 14:34:55.810 [main] Logger - URL is opened
+[INFO ] 2023-06-29 14:34:55.898 [main] Logger - name set
+[INFO ] 2023-06-29 14:34:55.935 [main] Logger - Entered password
+[INFO ] 2023-06-29 14:35:00.820 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 14:35:00.828 [main] Logger - Login test passed
+[INFO ] 2023-06-29 14:36:42.747 [main] Logger - URL is opened
+[INFO ] 2023-06-29 14:36:43.087 [main] Logger - name set
+[INFO ] 2023-06-29 14:36:43.184 [main] Logger - Entered password
+[INFO ] 2023-06-29 14:36:48.790 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 14:36:48.803 [main] Logger - Login test passed
+[INFO ] 2023-06-29 15:33:08.771 [main] Logger - URL is opened
+[INFO ] 2023-06-29 15:33:09.093 [main] Logger - name set
+[INFO ] 2023-06-29 15:33:09.191 [main] Logger - Entered password
+[INFO ] 2023-06-29 15:33:14.836 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 15:33:14.849 [main] Logger - Login test passed
+[INFO ] 2023-06-29 15:44:12.532 [main] Logger - URL is opened
+[INFO ] 2023-06-29 15:44:12.986 [main] Logger - name set
+[INFO ] 2023-06-29 15:44:13.112 [main] Logger - Entered password
+[INFO ] 2023-06-29 15:44:17.704 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 15:44:17.715 [main] Logger - Login test passed
+[INFO ] 2023-06-29 15:44:38.358 [main] Logger - URL is opened
+[INFO ] 2023-06-29 15:44:38.535 [main] Logger - name set
+[INFO ] 2023-06-29 15:44:38.594 [main] Logger - Entered password
+[INFO ] 2023-06-29 15:44:43.031 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 15:46:20.724 [main] Logger - URL is opened
+[INFO ] 2023-06-29 15:46:20.918 [main] Logger - name set
+[INFO ] 2023-06-29 15:46:20.979 [main] Logger - Entered password
+[INFO ] 2023-06-29 15:46:25.509 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 15:53:02.444 [main] Logger - URL is opened
+[INFO ] 2023-06-29 15:53:02.726 [main] Logger - name set
+[INFO ] 2023-06-29 15:53:02.817 [main] Logger - Entered password
+[INFO ] 2023-06-29 15:53:08.491 [main] Logger - Login button clicked
+[INFO ] 2023-06-29 18:28:49.804 [main] Logger - URL is opened
+[INFO ] 2023-06-29 18:28:50.047 [main] Logger - name set
+[INFO ] 2023-06-29 18:28:50.128 [main] Logger - Entered password
+[INFO ] 2023-06-29 18:28:55.735 [main] Logger - Login button clicked

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Ruta del reporte generado -->
+        <extent>
+            <output>/ruta/del/reporte.html</output>
+        </extent>
+
+        <!-- Configuraciones adicionales -->
+        <statusDisplayStrategy>
+            <display-strategy>1</display-strategy>
+        </statusDisplayStrategy>
+
+        <!-- Configuración de temas -->
+        <theme>standard</theme>
+
+        <!-- Configuración de sistema de archivos -->
+        <filePath>./</filePath>
+        <networkMode>ONLINE</networkMode>
+    </configuration>
+</extentreports>
